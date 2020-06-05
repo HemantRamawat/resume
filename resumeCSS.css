@@ -1,0 +1,259 @@
+body{
+    background-image: url(./black.jpg);
+}
+/* .nav-item a{
+color: whitesmoke;
+} */
+.intro h1{
+    color: blue;
+}
+.intro h2{
+    color: yellowgreen;
+}
+.nav{
+    background-color:yellow;
+}
+.nav a{
+    color: black;
+}
+
+#home h3{
+    margin-top:100px;
+    margin-left: 200px;
+    font-size: 30px;
+    font-family:fantasy;
+    color: rgb(255, 255, 92);
+}
+
+#iam{
+    font-size: 80px;
+    margin-left: 200px;
+    font-family: fantasy;
+    color: whitesmoke;  
+}
+#nam{
+    font-size: 80px;
+    margin-left: 200px;
+    font-family: fantasy;
+    color: rgb(255, 255, 92);
+
+}
+#nam1{
+    font-size: 80px;
+    margin-left: 250px;
+    font-family: fantasy;
+    color: rgb(255, 255, 92);
+
+}
+#home h2{
+    font-size: 40px;
+    margin-left: 200px;
+    font-family: fantasy;
+    color: whitesmoke; 
+    text-decoration: underline;
+}
+.line{
+    margin-top: 80px;
+    border-top: 1px solid whitesmoke;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+ .ab{
+    margin-left: 950px;
+    color: rgb(255, 255, 92);
+    font-family: fantasy;
+    font-size: 50px;
+}
+.me{
+    margin-left: 1020px;
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+
+}
+
+#about p{
+    margin-left: 950px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px;
+}
+.hobi{
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+}
+.int {
+    margin-left: 50px;
+    color: rgb(255, 255, 92);
+    font-family: fantasy;
+    font-size: 50px;
+}
+#hobbi ul li {
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px;
+}
+ul li::before{
+    color: whitesmoke;
+}
+.p{ 
+    margin-left: 900px;
+    color: rgb(255, 255, 92);
+    font-family: fantasy;
+    font-size: 50px;
+}
+.s{ 
+    margin-left: 950px;
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+}
+#personal ul li{
+    margin-left: 850px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px;   
+}
+.progress{
+    margin-right: 800px;
+}
+
+#TS p{
+    
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px;
+}
+.tech{
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+.skill{
+    margin-left: 50px;
+    color: rgb(255, 255, 92);
+    font-family: fantasy;
+    font-size: 50px;
+}
+#TS ul li {
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px;
+}
+.nav-item href{
+    margin-top: 150px;
+}
+
+#contact h1{
+    text-decoration: underline;
+    margin-left: 540px;
+    color: rgb(255, 255, 92);
+    font-family: fantasy;
+    font-size: 60px;
+}
+  #contact ul {
+    margin-left: 555px;
+    display: inline-block;
+    text-align: end;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px;   
+    
+}
+
+#contact h3 {
+    margin-left: 555px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    font-size: 50px;   
+}
+
+
+#links .h{
+    
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    display: inline-block;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+#links a{
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+  
+    color: rgb(255, 255, 92);
+    font-size: 25px;
+}
+
+
+
+.fa{
+    padding-right: 25px;
+}
+
+#links{
+    display: inline-block;
+    text-align: center;
+    color: rgb(255, 255, 92);
+    font-family: fantasy;
+    font-size: 25px;
+    margin-left: 570px;
+
+}
+
+.nav-item a:hover{
+    /* background-color:rgb(88, 88, 88); */
+    font-size: large;
+    transition: 0.3;
+    font-weight: bolder;
+    color: rgb(71, 0, 0);
+}
+
+.my{
+    margin-left: 1050px;
+    color: rgb(255, 255, 92);
+    font-family: fantasy;
+    font-size: 50px;
+
+}
+
+.prf{
+    
+    margin-left: 1080px;
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 50px;
+
+}
+#profile ul li{
+    margin-left: 1050px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px;  
+
+}
+
+#profile a{
+    
+    color: rgb(0, 94, 218)
+}
+
+#profile a:hover{
+
+    /* background-color:rgb(255, 255, 151); */
+    transition: 0.3s;
+    font-size: larger;
+    font-weight: bolder;
+}
